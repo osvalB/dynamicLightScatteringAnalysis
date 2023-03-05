@@ -5,4 +5,5 @@ To run this code with an example file follow this steps:
 
 1) Download this repo 
 2) Verify you have installed the following libraries: numpy, pandas and scipy
-3) $ python3 dlsAnalyzer.py 
+3) Verify you can run a jupyter notebook with python3
+4) $ jupyter notebook testAnalysis.ipynb
