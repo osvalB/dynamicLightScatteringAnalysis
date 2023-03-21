@@ -244,8 +244,8 @@ class dls_experiment:
 
     def predictAutocorrelationCurves(self):
 
-        # Create dictionary to store key-values where the key is the idx of the autocorrelation curve
-        # and the value is the predicted autocorrelation (vector)
+        # Create list to store the predicted autocorrelation data
+        
         self.autocorrelationPredicted    = []
 
         for idx in range(self.nMeasurements):
