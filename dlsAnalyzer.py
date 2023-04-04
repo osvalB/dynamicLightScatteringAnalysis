@@ -46,7 +46,7 @@ class dls_experiment:
         self.s_space, self.ds, self.hrs, self.weights     = None, None, None, None
 
         # Parameters required for fitting (L curve criteria)
-        self.alphaVec, self.optimalAlpha, self. alphaOptIdx  = None, None, None
+        self.alphaVec, self.optimalAlpha, self.alphaOptIdx  = None, None, None
 
         # Fitted data
         self.betaGuess, self.contributionsGuess         = None, None  
