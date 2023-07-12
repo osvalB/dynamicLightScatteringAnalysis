@@ -12,5 +12,6 @@ To run this code with an example file follow this steps:
 
 Use a reference similar to the following one:
 
-Osvaldo Burastero,  George Draper-Barr,  Bertrand Raynal, Maelenn Chevreuil,  Patrick England & Maria M. Garcia-Alai (2023). Raynals, an online tool for the analysis of dynamic light scattering
-[Manuscript in preparation]
+Burastero, O., Draper-Barr, G., Raynal, B., Chevreuil, M., England, P. & Garcia Alai, M. (2023). Raynals, an online tool for the analysis of dynamic light scattering. Acta Cryst. D79.
+
+https://journals.iucr.org/d/issues/2023/08/00/vo5014/index.html
